@@ -1,0 +1,7 @@
+*.pyc
+*.pyo
+*.sqlite3
+htmlcov/*
+.coverage
+.idea/
+teste.py
